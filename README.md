@@ -1,3 +1,3 @@
 # wiki
 
-Public related documentation for varoius projects
+Public related documentation for various projects
