@@ -1,4 +1,5 @@
 # Privacy Policy 
+Privacy Policy for Little Momins app
 
 ## What information is collected?
 No personal information is collected by Little Momins
