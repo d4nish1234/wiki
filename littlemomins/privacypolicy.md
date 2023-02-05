@@ -17,4 +17,4 @@ No
 No data is being collected
 
 ## Is the app collecting any user or device data for purposes beyond third-party analytics or third-party advertising?
-App gets year of birth of the grown up in order for the grown up to get to the grown up section where settings are located and resource attribution is placed. This info is only used for verification purposes and not stored See less
+App gets year of birth of the grown up in order for the grown up to get to the grown up section where settings are located and resource attribution is placed. This info is only used for verification purposes and not stored
